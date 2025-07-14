@@ -38,4 +38,4 @@ The goal of this project was to analyze the pizza sales dataset and deliver acti
 
 ## Screenshots
 
-![Home](<Home Page.png>) ![Pizza Category & Size Analysis](<Page 2.png>) ![Top & Bottom Pizzas](<Page 3.png>)
+![Home](<Dashboard Screenshots/Home Page.png>) ![Pizza Category & Size Analysis](<Dashboard Screenshots/Page 2.png>) ![Top & Bottom Pizzas](<Dashboard Screenshots/Page 3.png>)
